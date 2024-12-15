@@ -1,6 +1,9 @@
 # projekt_3.py-
-projekt_3.py - Election scraper 2017
-Název: Elections scraper 2017 
+projekt_3.py 
+
+Název 
+
+Elections scraper 2017 
 
 Projekt 3 v rámci kurzu Engeto Python akademie 
 
