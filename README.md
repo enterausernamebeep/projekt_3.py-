@@ -5,6 +5,7 @@ Název: Elections scraper 2017
 Python: Projekt 3 v rámci kurzu Engeto Python akademie 
 
 Popis projektu
+
 Cílem je vyextrahovat výsledky voleb do Poslanecké sněmovny Parlamentu České republiky v roce 2017
 pro vybraný okres: 
 
