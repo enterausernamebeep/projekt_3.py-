@@ -2,7 +2,7 @@
 projekt_3.py - Election scraper 2017
 Název: Elections scraper 2017 
 
-Python: Projekt 3 v rámci kurzu Engeto Python akademie 
+Projekt 3 v rámci kurzu Engeto Python akademie 
 
 Popis projektu
 
